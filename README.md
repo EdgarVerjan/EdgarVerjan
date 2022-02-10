@@ -7,6 +7,11 @@
 | 5:00-6:00 | Programacion Logica y Funcional   | Programacion Logica y Funcional   | Programacion Logica y Funcional   | Programacion Logica y Funcional   |                                  |
 | 6:00-7:00 | Administracion de Bases de Datos  | Administracion de Bases de Datos  | Administracion de Bases de Datos  | Administracion de Bases de Datos  | Administracion de Bases de Datos |
 | 7:00-800  | Fundamentos de Telecomunicaciones | Fundamentos de Telecomunicaciones | Fundamentos de Telecomunicaciones | Fundamentos de Telecomunicaciones |                                  |
-##Saludos mi nombre es Edgar
 
-![] (<a href="https://cooltext.com"><img src="https://images.cooltext.com/5582486.png" width="332" height="97" alt="Edgar V.S." /></a>)
+
+
+
+
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5582486.png" width="332" height="97" alt="Edgar V.S." /></a>
+
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5582488.png" width="604" height="100" alt="6to Semestre" /></a>
