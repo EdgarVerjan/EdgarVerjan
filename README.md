@@ -6,7 +6,7 @@
 | 4:00-5:00 | Lenguajes de Interfaz             | Lenguajes de Interfaz             | Lenguajes de Interfaz             | Lenguajes de Interfaz             |                                  |
 | 5:00-6:00 | Programacion Logica y Funcional   | Programacion Logica y Funcional   | Programacion Logica y Funcional   | Programacion Logica y Funcional   |                                  |
 | 6:00-7:00 | Administracion de Bases de Datos  | Administracion de Bases de Datos  | Administracion de Bases de Datos  | Administracion de Bases de Datos  | Administracion de Bases de Datos |
-| 7:00-800  | Fundamentos de Telecomunicaciones | Fundamentos de Telecomunicaciones | Fundamentos de Telecomunicaciones | Fundamentos de Telecomunicaciones |                                  |
+| 7:00-8:00  | Fundamentos de Telecomunicaciones | Fundamentos de Telecomunicaciones | Fundamentos de Telecomunicaciones | Fundamentos de Telecomunicaciones |                                  |
 
 
 
