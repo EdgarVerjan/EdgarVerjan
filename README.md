@@ -1,17 +1,18 @@
-|           | Lunes                             | Martes                            | Miercoles                         | Jueves                            | Viernes                          |
-|-----------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|----------------------------------|
-| 1:00-2:00 | Ecuaciones diferenciales          | Ecuaciones diferenciales          | Ecuaciones Diferenciales          | Ecuaciones Diferenciales          | Ecuaciones Diferenciales         |
-| 2:00-3:00 |                                   |                                   |                                   |                                   |                                  |
-| 3:00-4:00 | Taller de Investigacion 1         | Taller de Investigacion 1         | Taller de Investigacion 1         | Taller de Inveatigacion 1         |                                  |
-| 4:00-5:00 | Lenguajes de Interfaz             | Lenguajes de Interfaz             | Lenguajes de Interfaz             | Lenguajes de Interfaz             |                                  |
-| 5:00-6:00 | Programacion Logica y Funcional   | Programacion Logica y Funcional   | Programacion Logica y Funcional   | Programacion Logica y Funcional   |                                  |
-| 6:00-7:00 | Administracion de Bases de Datos  | Administracion de Bases de Datos  | Administracion de Bases de Datos  | Administracion de Bases de Datos  | Administracion de Bases de Datos |
-| 7:00-8:00  | Fundamentos de Telecomunicaciones | Fundamentos de Telecomunicaciones | Fundamentos de Telecomunicaciones | Fundamentos de Telecomunicaciones |                                  |
-
-
+|           | Lunes                            | Martes                           | Miercoles                        | Jueves                           | Viernes                          |
+|-----------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
+| 1:00-2:00 | Ingenieria de Software           | Ingenieria de Software           | Ingenieria de Software           | Ingenieria de Software           | Ingenieria de Software           |
+| 2:00-3:00 | Administracion de Bases de Datos | Administracion de Bases de Datos | Administracion de Bases de Datos | Administracion de Bases de Datos | Administracion de Bases de Datos |
+| 3:00-4:00 | Redes de Computadoras            | Redes de Computadoras            | Redes de Computadoras            | Redes de Computadoras            | Redes de Computadoras            |
+| 4:00-5:00 | Lenguajes y Automatas II         | Lenguajes y Automatas II         | Lenguajes y Automatas II         | Lenguajes y Automatas II         | Lenguajes y Automatas II         |
+| 5:00-6:00 | Sistemas Programables            | Sistemas Programables            | Sistemas Programables            | Sistemas Programables            |                                  |
 
 
 
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5582486.png" width="332" height="97" alt="Edgar V.S." /></a>
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5582488.png" width="604" height="100" alt="6to Semestre" /></a>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5616728.png" width="930" height="114" alt="7mo Semestre" /></a>
+
+
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5616729.png" width="790" height="169" alt="Dino is best deck" /></a>
+
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5616730.gif" width="401" height="99" alt="Lets goooo" /></a>
